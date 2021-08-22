@@ -9,4 +9,6 @@ CS-230 Software Design Document - A document outlining a client's desired progra
 CS-250 Sprint Review and Retrospective - A paper reflecting on scrum and agile practices, and a presentation 
 that gives an overview of the agile team, the SDLC, and a comparison of waterfall and agile.
 
+CS-255 Business Requirements and System Design - A business requirements document outlining the background, purpose, goals, and requirements of a web-based system, as well as a system design document containing several UML diagrams and technical requirements.
+
 Each project contains a README with more detailed information.
