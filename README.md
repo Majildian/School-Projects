@@ -13,4 +13,6 @@ that gives an overview of the agile team, the SDLC, and a comparison of waterfal
 
 CS-255 Business Requirements and System Design - A business requirements document outlining the background, purpose, goals, and requirements of a web-based system, as well as a system design document containing several UML diagrams and technical requirements.
 
+CS-330 3D Scene and Design Decisions - A visualization of a table with gardening tools on it, created in C++ with OpenGL, as well as a design decisions document.
+
 Each project contains a README with more detailed information.
