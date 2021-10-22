@@ -15,4 +15,6 @@ CS-255 Business Requirements and System Design - A business requirements documen
 
 CS-330 3D Scene and Design Decisions - A visualization of a table with gardening tools on it, created in C++ with OpenGL, as well as a design decisions document.
 
+CS-320 Summary and Reflections Report - A simple contact model and service, as well as tests for each. Also contains a summary and reflection on my experience writing several model/service pairs similar to the examples.
+
 Each project contains a README with more detailed information.
