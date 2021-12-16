@@ -13,8 +13,10 @@ that gives an overview of the agile team, the SDLC, and a comparison of waterfal
 
 CS-255 Business Requirements and System Design - A business requirements document outlining the background, purpose, goals, and requirements of a web-based system, as well as a system design document containing several UML diagrams and technical requirements.
 
+CS-320 Summary and Reflections Report - A simple contact model and service, as well as tests for each. Also contains a summary and reflection on my experience writing several model/service pairs similar to the examples.
+
 CS-330 3D Scene and Design Decisions - A visualization of a table with gardening tools on it, created in C++ with OpenGL, as well as a design decisions document.
 
-CS-320 Summary and Reflections Report - A simple contact model and service, as well as tests for each. Also contains a summary and reflection on my experience writing several model/service pairs similar to the examples.
+CS-340 Data Dashboard - A Jupyter Notebook (Python) dashboard that displays a MongoDB database and provides filtering options, a geolocation chart, and a pie chart. Also includes a Python CRUD module for basic operations on a MongoDB database.
 
 Each project contains a README with more detailed information.
