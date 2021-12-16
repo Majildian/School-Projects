@@ -19,4 +19,6 @@ CS-330 3D Scene and Design Decisions - A visualization of a table with gardening
 
 CS-340 Data Dashboard - A Jupyter Notebook (Python) dashboard that displays a MongoDB database and provides filtering options, a geolocation chart, and a pie chart. Also includes a Python CRUD module for basic operations on a MongoDB database.
 
+CS-360 Event Tracker Mobile App - A mobile app for keeping track of events entered by the user. Features a login system, SMS notifications, and editable events. Backed by a SQLite local database system.
+
 Each project contains a README with more detailed information.
